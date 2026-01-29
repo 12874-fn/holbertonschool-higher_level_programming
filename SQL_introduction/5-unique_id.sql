@@ -1,4 +1,4 @@
--- Creates the table unique_id with a unique id
+-- crea una tabla unique_id con un unico id
 CREATE TABLE IF NOT EXISTS unique_id (
     id INT DEFAULT 1 UNIQUE,
     name VARCHAR(256)
