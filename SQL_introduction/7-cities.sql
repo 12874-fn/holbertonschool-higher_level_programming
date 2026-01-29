@@ -1,4 +1,4 @@
--- Creates database hbtn_0d_usa and table cities
+-- Crea base de datos hbtn_0d_usa y una tabla de ciudades
 CREATE DATABASE IF NOT EXISTS hbtn_0d_usa;
 
 USE hbtn_0d_usa;
