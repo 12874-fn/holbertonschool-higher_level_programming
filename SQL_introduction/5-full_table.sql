@@ -1,2 +1,2 @@
--- Print the full description of the table first_table
+-- Imprime un descripcion completa de la tabla first_table
 SHOW CREATE TABLE first_table;
