@@ -1,4 +1,2 @@
--- List all tables of the current database
+-- Enlista todas las tablas de la actual base  de datos
 SHOW TABLES;
-
-
